@@ -68,7 +68,8 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  /* background-color: #fff; */
+  background-color: #f8f9fa
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -9056,10 +9057,10 @@ button.bg-black:focus {
     margin-right: 3rem !important;
   }
 
-  .mb-lg-5,
+  /* .mb-lg-5,
 .my-lg-5 {
     margin-bottom: 3rem !important;
-  }
+  } */
 
   .ml-lg-5,
 .mx-lg-5 {
